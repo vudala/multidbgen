@@ -1,3 +1,8 @@
+-- Star Schema Benchmark (SSB) schema.
+-- Benchmark proposed by Patrick O'Neil, Betty O'Neil, and Xuedong Chen
+-- (University of Massachusetts Boston). See README.md
+-- ("Credits and attribution") for details.
+
 DROP SCHEMA IF EXISTS ssb CASCADE;
 CREATE SCHEMA ssb;
 SET search_path to ssb;

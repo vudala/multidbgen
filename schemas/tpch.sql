@@ -1,3 +1,8 @@
+-- TPC-H schema.
+-- Benchmark and original dbgen/qgen utilities by the Transaction Processing
+-- Performance Council (TPC). See README.md ("Credits and attribution") and
+-- tpch/tpch-dbgen/doc/TPC_EULA for licensing terms.
+
 DROP SCHEMA IF EXISTS tpch CASCADE;
 CREATE SCHEMA tpch;
 SET search_path to tpch;
