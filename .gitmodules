@@ -1,0 +1,7 @@
+[submodule "tpch/tpch-dbgen"]
+	path = tpch/tpch-dbgen
+	url = https://github.com/eyalroz/tpch-dbgen
+
+[submodule "ssb/ssb-dbgen"]
+	path = ssb/ssb-dbgen
+	url = https://github.com/eyalroz/ssb-dbgen.git
